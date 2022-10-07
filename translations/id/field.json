@@ -1,0 +1,17 @@
+[
+    {
+        "locale": "id",
+        "key": "Year",
+        "trans": "Tahun"
+    },
+    {
+        "locale": "id",
+        "key": "NewPassword",
+        "trans": "Password Baru"
+    },
+    {
+        "locale": "id",
+        "key": "NewPasswordConfirm",
+        "trans": "Konfirmasi password baru"
+    }
+]
